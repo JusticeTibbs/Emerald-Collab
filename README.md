@@ -6,6 +6,7 @@ ArcGIS QuickCapture is a field data collection app that allows users to capture 
 
 ## Project Overview
 There are two field observations that we are collecting: Survey Data and Location Data. 
+
 Survey Data contains:
 - Damaged Sidewalk
 - Damaged/Broken Light Poles
