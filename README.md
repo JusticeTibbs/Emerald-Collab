@@ -5,7 +5,7 @@ ArcGIS QuickCapture is a field data collection app that allows users to capture 
  The goal of this project is to capture and collect road infrastructure needs throughout Washington Park, ranging from potholes, excessive litter, abandonded houses, and vacant lots to observe the variances between the data that MAPSCorps has collected and 311 Service Requests data primarly in Washington Park to see what assets are lacking in the latter.
 
 ## Project Overview
-There are two field observations that we are collecting: ** Survey Data** and **Location Data**. 
+There are two field observations that we are collecting: **Survey Data** and **Location Data**. 
 
 Survey Data contains:
 1. Damaged Sidewalk
