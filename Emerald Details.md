@@ -7,5 +7,4 @@ Road Condition survey began on September 17th and concluded on October 8th. High
 ## Research Area
 The area that was chosen for this research project was Washington Park on Chicago's South Side as apart of Emerald South Collaberative's nonp-profit grant. The Emerald South Economic Development Collaborative generates community wealth and amplifies local culture through shared pride, power, and investment for Chicago's mid-South Side communities; communities that include Woodlawn, Washington Park, and South Shore. Their mission is to attract and coordinate investment through community convening and collaborative partnerships that increase local ownership and community prosperity.
 
-Washington Park stretches east-west from Cottage Grove Avenue to the Dan Ryan Expressway. 
-
+Washington Park encompasses an area strecthing east-west from South Cottage Grove Avenue to the Dan Ryan Expressway, and north-south from 51st Street to 63rd, encompassing an area total of 1.48 sq mi (3.83 km2) . For this project, the park was omitted from our research area, only going east-west from South Martin Luther King Dr to the Dan Ryan Expressway, and decreasing the total area coverage to 0.90 sq mi (2.33 km2). 
