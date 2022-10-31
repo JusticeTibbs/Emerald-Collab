@@ -1,0 +1,11 @@
+# Thesis
+**Given the variances between the Road Survey data collected by MAPSCorps and 311 Data Service Requests collected by the city of Chicago, MAPSCorps' data provides a more accurate and up-to-date status on the infrastucture needs in Washington Park that the city is unware of.** 
+
+## Emerald Collab Project Timeline 
+Road Condition survey began on September 17th and concluded on October 8th. High-school participants went out to Washington Park every Saturday during the four-week period survey the community area, from 11am to 2pm, mapping any infrastructure needs which were complied in real-time. 
+
+## Research Area
+The area that was chosen for this research project was Washington Park on Chicago's South Side as apart of Emerald South Collaberative's nonp-profit grant. The Emerald South Economic Development Collaborative generates community wealth and amplifies local culture through shared pride, power, and investment for Chicago's mid-South Side communities; communities that include Woodlawn, Washington Park, and South Shore. Their mission is to attract and coordinate investment through community convening and collaborative partnerships that increase local ownership and community prosperity.
+
+Washington Park stretches east-west from Cottage Grove Avenue to the Dan Ryan Expressway. 
+
