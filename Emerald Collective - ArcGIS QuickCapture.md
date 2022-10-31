@@ -14,7 +14,7 @@ Survey Data contains:
 4. Excessive Litter
 5. Overgrowth 
 
-![Survey Data columns](https://imgur.com/Qu0Lukw "Survey Data")
+![Survey Data columns](https://i.imgur.com/Qu0Lukw.png "Survey Data")
 - *Survey Data includes multiple choice prompts to describe the severity of certain observations after capturing it by photo, as well as notes to describe the characterisitcs.*
 
 Location Data contains:
