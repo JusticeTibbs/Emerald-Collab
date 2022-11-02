@@ -14,6 +14,8 @@ Washington Park encompasses an area strecthing east-west from South Cottage Grov
 
 ## 4. Methodology
 ### 4.1 Participants and Procedure 
-Our participants consisted a total of 22 high-school students and Field Coordinators from MAPSCorps to help with data collection with Emerald. The attendence varied each Saturday; however, on average, 12 high school students showed up in attendence.
+Our participants consisted a total of 22 high-school students and 3 Field Coordinators from MAPSCorps to help with data collection with Emerald. The students all came from three schools: Kenwood Academy High School, Hyde Park Academy High School, and the University of Chicago Charter School: Woodlawn Campus. The attendence varied each Saturday; however, on average, 12 high school students showed up in attendence.
 
-The road condition surveys consisted on students utilizing ArcGIS QuickCapture, a field collection app that allows users to capture and record field observations with a simple button interface on their smartphones. We chose QuickCapture due to it being easy-to-use and requiring little training. 
+The road condition surveys consisted of students utilizing ArcGIS QuickCapture, a field collection app that allows users to capture and record field observations with a simple button interface on their smartphones. We chose QuickCapture due to it being easy-to-use and requiring little training.
+
+When out mapping, the students were split up into 2-3 groups and were assingned to different locations around Washington Park with a Field Coordiantor leading them. The group stucture had the Field Coordinator - the adult- focusing on Potholes and art murals while the students were split up on each side of the street to cover any observations that needed to be capture. Students were required to always wear their MAPSCorps T-shirts when out mapping and to not go into areas that felt unsafe. 
